@@ -5,11 +5,11 @@ shinylive::export(
   appdir = "HEX-Colour-Studio",
   destdir = "docs"
   )
-
+ 
 
 ## with development version of httpuv, run shinylive app locally
 ## remotes::install_github("rstudio/httpuv")
 httpuv::runStaticServer(
-  dir = "docs", 
+  dir = "docs",
   port = 8888
   )
