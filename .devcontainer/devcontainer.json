@@ -9,7 +9,7 @@
 		"ghcr.io/rocker-org/devcontainer-features/r-dependent-packages:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {},
-		"ghcr.io/rocker-org/devcontainer-features/r-rig:1": {}
+		"ghcr.io/rocker-org/devcontainer-features/r-rig:2": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
