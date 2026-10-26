@@ -5,7 +5,7 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/universal:2-linux",
 	"features": {
-		"ghcr.io/rocker-org/devcontainer-features/r-apt:0": {},
+		"ghcr.io/rocker-org/devcontainer-features/r-apt:1": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-dependent-packages:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-history:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {},
